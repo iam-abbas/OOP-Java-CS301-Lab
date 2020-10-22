@@ -1,0 +1,3 @@
+Abhin Bhor	Java	90000
+Arvind Jain	OOPS	90000
+Jain Mallick	Music	9000000

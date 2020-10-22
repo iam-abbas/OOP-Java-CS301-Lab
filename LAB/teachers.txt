@@ -1,0 +1,4 @@
+Anuj        A        OOPS        MATHS
+Arvindh        A        COA        PYTHON
+Jain        A        FLAT        OOPS
+Mallick        B        OOPS        MATHS	 
